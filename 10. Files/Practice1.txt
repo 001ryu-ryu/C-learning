@@ -1,0 +1,3 @@
+Name of the student is: Iftiakr
+Age of the student is: 21
+cgpa of the student is: 6.210000
