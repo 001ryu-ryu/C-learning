@@ -1,0 +1,6 @@
+You have to store the marks of 30 students in class. What will you choose?
+
+a) Array of 30 floats?
+b) Structure
+
+Array of 30 floats would be a smart decision. As Structure is mainly used to when there are different types of data types.
